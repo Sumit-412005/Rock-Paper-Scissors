@@ -24,7 +24,7 @@ Welcome to the **Rock-Paper-Scissors Game**! This is a simple yet fun browser-ba
    - Click the "Play Again" button to enjoy multiple rounds!  
 
 ## 🌈 Demo  
-https://thesiddharthmina.github.io/Rock-Paper-Scissors-game/
+https://github.com/Sumit-412005/Rock-Paper-Scissors
 
 Here’s how the game looks:  
 
@@ -45,11 +45,11 @@ Here’s how the game looks:
 
 ## 💬 Feedback  
 
-Have suggestions or improvements? Feel free to open an [issue](https://github.com/TheSiddharthmina/Rock-Paper-Scissors-game/issues) or submit a [pull request](https://github.com/TheSiddharthmina/Rock-Paper-Scissors-game/pulls).  
+Have suggestions or improvements? Feel free to open an [issue](https://github.com/Sumit-412005/Rock-Paper-Scissors/issues) or submit a [pull request](https://github.com/Sumit-412005/Rock-Paper-Scissors/pulls).  
 
 Enjoy the game and happy playing! 😊  
 
 --- 
 📧 Contact
 
-For questions or suggestions, reach out to me at siddharthmina121@gmail.com.
+For questions or suggestions, reach out to me at sumit412005@gmail.com
